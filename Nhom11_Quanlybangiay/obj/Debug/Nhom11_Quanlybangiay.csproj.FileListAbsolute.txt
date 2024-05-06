@@ -1,0 +1,714 @@
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Loai.FrmLoai.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Loai.FrmLoai.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTL WINDOWS_NHÓM11 - Copy\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Loai.FrmLoai.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\BTLWindow\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Loai.FrmLoai.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\BTLWindow_Final\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\WindowsNhom11\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\84866\Desktop\WindowsNhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows_Gruop11_Có thể đây là lần cuối nếu không có sự góp ý nào\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\BTL_Windows\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows_Có_Thể_Là_Lần_Cuối\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\Admin\Desktop\ki6\LT_WINDOWS\Windows4\Windows4\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Nhóm 11\Windows_Có_Thể_Là_Lần_Cuối\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csprojAssemblyReference.cache
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\84866\Desktop\Windows04_Group11\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmXemNhungHoaDonTheoNhaCC.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXuatHoaDon.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmTongHopHoaDonDaBan.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemChiTietHoaDon.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmXemNhungHoaDonDaBanTheoNhanVien.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.HoaDonBanHang.frmHoaDonBanHangCuaMotKhachHang.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVip.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmChitietnhaphang.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmSanPhamVoiNhanVien.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmNguoiThuTien.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeDoanhThuTheoNgay.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonBanTheoNgay.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeHoaDonNhapTheoNgay.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThongKe.frmThongKeSanPhamBanChayNhat.resources
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CopyComplete
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+D:\Tài liệu học tập\Kì 6\LT W.D\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.resx
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.cs
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\FrmLogin1\FrmLogin.Designer.cs
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe.config
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\Nhom11_Quanlybangiay.pdb
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.dll
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.dll
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.pdb
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.xml
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\bin\Debug\itextsharp.xml
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.AssemblyReference.cache
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.DanhSachCacNhaCungCap.frmNhaCungCap.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.formdoimatkhau.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmChuCuaHang.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FormChucNang.frmNV.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin.FrmLogin.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.FrmLogin1.frmQuenMatKhau.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmkhachhang.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Khachhang.frmKhachHangVoiNQL.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Người_quản_lí.frmNguoiquanli.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmCacHoaDonDaNhap.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhapHang.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.NhapHang.frmNhungHangDaNhapTheoTuNhanVien.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.Properties.Resources.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.ThemSanPham.frmSanPham.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmThongKeTienNhapGiuaCacNhaCungCap.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.SanPham.frmTongSoLuongTonKho.resources
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Q.D86295F2.Up2Date
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.exe
+C:\Users\ASUS\C#\QL_CuaHangGiay\Nhóm 11_Quản_Lý_Cửa_Hàng_Bán_Giày_Dép\Windows4_Nhom11\Nhom11_Quanlybangiay\Nhom11_Quanlybangiay\obj\Debug\Nhom11_Quanlybangiay.pdb
