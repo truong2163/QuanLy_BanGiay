@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7530893-3D1B-4D28-A63B-161193273C89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Nhom11_Quanlybangiay</RootNamespace>
+    <AssemblyName>Nhom11_Quanlybangiay</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.7.0-develop00310\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.7.0-develop00310\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DanhSachCacNhaCungCap\dataNCC.cs" />
+    <Compile Include="DanhSachCacNhaCungCap\frmNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachCacNhaCungCap\frmNhaCungCap.Designer.cs">
+      <DependentUpon>frmNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChucNang\dataformChucNang.cs" />
+    <Compile Include="FormChucNang\formdoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChucNang\formdoimatkhau.Designer.cs">
+      <DependentUpon>formdoimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChucNang\frmChuCuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChucNang\frmChuCuaHang.Designer.cs">
+      <DependentUpon>frmChuCuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChucNang\frmNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChucNang\frmNV.Designer.cs">
+      <DependentUpon>frmNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin1\FrmLogin.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FrmLogin1\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FrmLogin1\frmQuenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin1\frmQuenMatKhau.Designer.cs">
+      <DependentUpon>frmQuenMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khachhang\dataKhachHang.cs" />
+    <Compile Include="Khachhang\FormKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khachhang\FormKhachHang.Designer.cs">
+      <DependentUpon>FormKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khachhang\frmKhachHangVoiNQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khachhang\frmKhachHangVoiNQL.Designer.cs">
+      <DependentUpon>frmKhachHangVoiNQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NguoiQuanLI\dataMaNQL.cs" />
+    <Compile Include="NguoiQuanLI\frmNguoiquanli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguoiQuanLI\frmNguoiquanli.Designer.cs">
+      <DependentUpon>frmNguoiquanli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapHang\datanhaphang.cs" />
+    <Compile Include="NhapHang\frmCacHoaDonDaNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang\frmCacHoaDonDaNhap.Designer.cs">
+      <DependentUpon>frmCacHoaDonDaNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapHang\frmNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang\frmNhapHang.Designer.cs">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanPham\dataSanPham.cs" />
+    <Compile Include="SanPham\frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham\frmSanPham.Designer.cs">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham\frmThongKeTienNhapGiuaCacNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham\frmThongKeTienNhapGiuaCacNhaCungCap.Designer.cs">
+      <DependentUpon>frmThongKeTienNhapGiuaCacNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham\frmTongSoLuongTonKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPham\frmTongSoLuongTonKho.Designer.cs">
+      <DependentUpon>frmTongSoLuongTonKho.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DanhSachCacNhaCungCap\frmNhaCungCap.resx">
+      <DependentUpon>frmNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChucNang\formdoimatkhau.resx">
+      <DependentUpon>formdoimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChucNang\frmChuCuaHang.resx">
+      <DependentUpon>frmChuCuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChucNang\frmNV.resx">
+      <DependentUpon>frmNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin1\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin1\frmQuenMatKhau.resx">
+      <DependentUpon>frmQuenMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khachhang\FormKhachHang.resx">
+      <DependentUpon>FormKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khachhang\frmKhachHangVoiNQL.resx">
+      <DependentUpon>frmKhachHangVoiNQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NguoiQuanLI\frmNguoiquanli.resx">
+      <DependentUpon>frmNguoiquanli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang\frmCacHoaDonDaNhap.resx">
+      <DependentUpon>frmCacHoaDonDaNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang\frmNhapHang.resx">
+      <DependentUpon>frmNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SanPham\frmSanPham.resx">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPham\frmThongKeTienNhapGiuaCacNhaCungCap.resx">
+      <DependentUpon>frmThongKeTienNhapGiuaCacNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPham\frmTongSoLuongTonKho.resx">
+      <DependentUpon>frmTongSoLuongTonKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_ForMat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_Format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD_FORMAT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refesh_Format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanhtoan_format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XemChiTiet_Format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel_format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-hngstrm-1939485.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-kristaps-ungurs-1831590-20489030.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quenpass.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
